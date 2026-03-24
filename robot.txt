@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gdrx01.github.io/TASK-SP/sitemap.xml
