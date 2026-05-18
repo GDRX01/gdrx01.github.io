@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://damp-hill-04db.gdrx.workers.dev/sitemap.xml
+Sitemap: https://gdrx01.github.io/sitemap.xml
